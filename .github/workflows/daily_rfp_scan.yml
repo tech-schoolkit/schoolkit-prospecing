@@ -1,8 +1,8 @@
-name: Daily RFP Scanner
+name: Weekly RFP Scanner
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 15 * * 1"
   workflow_dispatch:
 
 permissions:
