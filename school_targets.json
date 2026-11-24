@@ -1,0 +1,1866 @@
+[
+  {
+    "name": "Alberta Conference of 7th Day Adventist Church",
+    "website": "https://albertasdaedu.org",
+    "province": "AB",
+    "schools": 10,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Algoma District School Board",
+    "website": "https://www.adsb.on.ca/",
+    "province": "ON",
+    "schools": 53,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Algonquin and Lakeshore Catholic District School Board",
+    "website": "https://www.alcdsb.on.ca/",
+    "province": "ON",
+    "schools": 43,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Anglophone East School District",
+    "website": "https://asdeast.nbed.ca/",
+    "province": "NB",
+    "schools": 38,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Anglophone North School District",
+    "website": "https://asdn.nbed.ca/",
+    "province": "NB",
+    "schools": 36,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Anglophone South School District",
+    "website": "https://asds.nbed.ca/",
+    "province": "NB",
+    "schools": 69,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Anglophone West School District",
+    "website": "https://asdw.nbed.ca/",
+    "province": "NB",
+    "schools": 70,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Annapolis Valley Regional Centre for Education",
+    "website": "https://www.avrce.ca/",
+    "province": "NS",
+    "schools": 40,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Aspen View Public Schools",
+    "website": "https://www.aspenview.org/",
+    "province": "AB",
+    "schools": 19,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Avon Maitland District School Board",
+    "website": "https://www.amdsb.ca/",
+    "province": "ON",
+    "schools": 40,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Battle River School Division",
+    "website": "https://www.brsd.ab.ca",
+    "province": "AB",
+    "schools": 34,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Beautiful Plains School Division",
+    "website": "http://www.beautifulplainssd.ca/",
+    "province": "MB",
+    "schools": 14,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Black Gold School Division",
+    "website": "https://www.blackgold.ca/",
+    "province": "AB",
+    "schools": 31,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Bluewater District School Board",
+    "website": "https://www.bwdsb.on.ca/",
+    "province": "ON",
+    "schools": 53,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Border Land School Division",
+    "website": "http://www.blsd.ca/",
+    "province": "MB",
+    "schools": 16,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Boundary",
+    "website": "https://www.sd51.bc.ca",
+    "province": "BC",
+    "schools": 11,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Brandon School Division",
+    "website": "https://www.bsd.ca/",
+    "province": "MB",
+    "schools": 24,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Brant Haldimand Norfolk Catholic District School Board",
+    "website": "https://www.bhncdsb.ca/",
+    "province": "ON",
+    "schools": 34,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Bruce-Grey Catholic District School Board",
+    "website": "https://www.bgcdsb.org/",
+    "province": "ON",
+    "schools": 13,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Buffalo Trail School Division",
+    "website": "https://www.btps.ca",
+    "province": "AB",
+    "schools": 27,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Burnaby Schools",
+    "website": "http://burnabyschools.ca/",
+    "province": "BC",
+    "schools": 49,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Calgary Board of Education",
+    "website": "https://www.cbe.ab.ca",
+    "province": "AB",
+    "schools": 262,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Calgary Roman Catholic Separate School Division",
+    "website": "https://www.cssd.ab.ca",
+    "province": "AB",
+    "schools": 121,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Campbell River",
+    "website": "http://www.sd72.bc.ca",
+    "province": "BC",
+    "schools": 24,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Cape Breton-Victoria Regional Centre for Education",
+    "website": "https://cbvrce.ca/home/",
+    "province": "NS",
+    "schools": 38,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Catholic District School Board of Eastern Ontario - CDSBEO",
+    "website": "https://www.cdsbeo.on.ca/",
+    "province": "ON",
+    "schools": 35,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "CCSD Cariboo-Chilcotin SD27",
+    "website": "https://www.sd27.bc.ca/",
+    "province": "BC",
+    "schools": 30,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Central Okanagan",
+    "website": "http://www.sd23.bc.ca",
+    "province": "BC",
+    "schools": 43,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Central Quebec School Board (CQSB)",
+    "website": "https://www.cqsb.qc.ca/",
+    "province": "PQ",
+    "schools": 19,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Chignecto Regional Centre for Education",
+    "website": "https://www.ccrce.ca/",
+    "province": "NS",
+    "schools": 65,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Chilliwack School District",
+    "website": "https://sd33.bc.ca/",
+    "province": "BC",
+    "schools": 32,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Chinook School Division",
+    "website": "https://www.chinooksd.ca/",
+    "province": "SK",
+    "schools": 60,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Chinook's Edge School Division",
+    "website": "https://www.cesd73.ca",
+    "province": "AB",
+    "schools": 43,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Christ the Redeemer Catholic Schools",
+    "website": "https://www.redeemer.ab.ca/",
+    "province": "AB",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Clearview School Division",
+    "website": "https://www.clearview.ab.ca",
+    "province": "AB",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Coast Mountains",
+    "website": "http://www.cmsd.bc.ca",
+    "province": "BC",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Comox Valley",
+    "website": "https://www.comoxvalleyschools.ca/",
+    "province": "BC",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil des \u00e9coles fransaskoises",
+    "website": "https://ecolefrancophone.com/fr/",
+    "province": "SK",
+    "schools": 46,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Conseil des \u00e9coles publiques de l'Est de l'Ontario",
+    "website": "https://cepeo.on.ca/#splash",
+    "province": "ON",
+    "schools": 15,
+    "company_type": "",
+    "current_provider": ""
+  },
+  {
+    "name": "Conseil scolaire acadien provincial",
+    "website": "https://csap.ca/",
+    "province": "NS",
+    "schools": 23,
+    "company_type": "",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Conseil scolaire catholique des Grandes Rivi\u00e8res",
+    "website": "https://cscdgr.education/",
+    "province": "ON",
+    "schools": 60,
+    "company_type": "",
+    "current_provider": "Chabo Communications & Design"
+  },
+  {
+    "name": "Conseil scolaire catholique MonAvenir",
+    "website": "https://www.cscmonavenir.ca/",
+    "province": "ON",
+    "schools": 65,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil scolaire catholique Nouvelon",
+    "website": "https://www.nouvelon.ca/",
+    "province": "ON",
+    "schools": 39,
+    "company_type": "",
+    "current_provider": "Chabo Communications & Design"
+  },
+  {
+    "name": "Conseil scolaire catholique Providence",
+    "website": "https://www.cscprovidence.ca/",
+    "province": "ON",
+    "schools": 34,
+    "company_type": "",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Conseil scolaire Centre-Nord",
+    "website": "https://www.centrenord.ab.ca",
+    "province": "AB",
+    "schools": 22,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil scolaire de district catholique de l'Est ontarie - SCDCEO",
+    "website": "https://www.csdceo.ca/",
+    "province": "ON",
+    "schools": 40,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil scolaire de district catholique des Aurores bor\u00e9ales",
+    "website": "https://csdcab.ca/",
+    "province": "ON",
+    "schools": 12,
+    "company_type": "",
+    "current_provider": "Chabo Communications & Design"
+  },
+  {
+    "name": "Conseil scolaire du Grand Nord",
+    "website": "https://grandnord.ca/",
+    "province": "ON",
+    "schools": 24,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil scolaire francophone",
+    "website": "https://www.csf.bc.ca/",
+    "province": "BC",
+    "schools": 47,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil scolaire public du Nord-Est de l'Ontario",
+    "website": "https://www.cspne.ca/",
+    "province": "ON",
+    "schools": 15,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Conseil scolaire Viamonde",
+    "website": "https://www.csviamonde.ca/",
+    "province": "ON",
+    "schools": 61,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Coquitlam School District No. 43",
+    "website": "http://www.sd43.bc.ca",
+    "province": "BC",
+    "schools": 73,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Cowichan Valley School District",
+    "website": "https://www.sd79.bc.ca",
+    "province": "BC",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Invision Web"
+  },
+  {
+    "name": "CSDC Franco-Nord",
+    "website": "https://www.franco-nord.ca/",
+    "province": "ON",
+    "schools": 16,
+    "company_type": "",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Delta School District",
+    "website": "http://www.deltasd.bc.ca",
+    "province": "BC",
+    "schools": 31,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "UPANUP"
+  },
+  {
+    "name": "District School Board of Niagara",
+    "website": "https://www.dsbn.org/",
+    "province": "ON",
+    "schools": 59,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "District School Board Ontario North East",
+    "website": "https://www.dsb1.ca/",
+    "province": "ON",
+    "schools": 37,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Division Scolaire Franco-Manitobaine",
+    "website": "https://www.dsfm.mb.ca/",
+    "province": "MB",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Dufferin-Peel Catholic District School Board",
+    "website": "https://www.dpcdsb.org/",
+    "province": "ON",
+    "schools": 151,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Durham Catholic District School Board",
+    "website": "https://www.dcdsb.ca/",
+    "province": "ON",
+    "schools": 46,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "GHD Digital"
+  },
+  {
+    "name": "Durham District School Board",
+    "website": "https://www.ddsb.ca/",
+    "province": "ON",
+    "schools": 127,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "GHD Digital"
+  },
+  {
+    "name": "East Central Catholic Schools",
+    "website": "https://www.ecacs.ca/",
+    "province": "AB",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Eastern Shores School Board (ESSB)",
+    "website": "https://www.essb.qc.ca/",
+    "province": "PQ",
+    "schools": 16,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Eastern Townships School Board (ETSB)",
+    "website": "https://www.etsb.qc.ca/",
+    "province": "PQ",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Edmonton Catholic Schools",
+    "website": "https://www.ecsd.net",
+    "province": "AB",
+    "schools": 101,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Edmonton Public Schools",
+    "website": "https://www.epsb.ca",
+    "province": "AB",
+    "schools": 228,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Elk Island Catholic Separate School Division",
+    "website": "https://www.eics.ab.ca",
+    "province": "AB",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Elk Islands Public Schools",
+    "website": "https://www.eips.ca",
+    "province": "AB",
+    "schools": 48,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "English Montreal School Board",
+    "website": "https://www.emsb.qc.ca/",
+    "province": "PQ",
+    "schools": 49,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Evergreen Catholic Separate School Division",
+    "website": "https://www.ecsrd.ca",
+    "province": "AB",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Foothills School Division",
+    "website": "https://www.foothillsschooldivision.ca",
+    "province": "AB",
+    "schools": 27,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Fort La Bosse School Division",
+    "website": "http://www.flbsd.mb.ca/",
+    "province": "MB",
+    "schools": 10,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Fort McMurray Catholic Schools",
+    "website": "https://www.fmcschools.ca/",
+    "province": "AB",
+    "schools": 13,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Fort McMurray School Division",
+    "website": "https://www.fmpsdschools.ca",
+    "province": "AB",
+    "schools": 16,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Fort Vermilion School Division",
+    "website": "https://www.fvsd.ab.ca",
+    "province": "AB",
+    "schools": 19,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Frontier School Division",
+    "website": "https://www.fsdnet.ca/",
+    "province": "MB",
+    "schools": 30,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Garden Valley School Division",
+    "website": "http://www.gvsd.ca/",
+    "province": "MB",
+    "schools": 14,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Golden Hills School Division",
+    "website": "https://www.ghsd75.ca/",
+    "province": "AB",
+    "schools": 42,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Good Spirit SD 204",
+    "website": "https://www.gssd.ca/",
+    "province": "SK",
+    "schools": 24,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Grand Erie District School Board",
+    "website": "https://granderie.ca/",
+    "province": "ON",
+    "schools": 73,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Grande Prairie Roman Catholic Separate School Division",
+    "website": "https://gpcsd.ca/",
+    "province": "AB",
+    "schools": 14,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Grande Prairie School Division",
+    "website": "https://www.gppsd.ab.ca",
+    "province": "AB",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Grande Yellowhead School Division",
+    "website": "https://www.gypsd.ca",
+    "province": "AB",
+    "schools": 24,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Grasslands Public Schools",
+    "website": "https://www.grasslands.ab.ca",
+    "province": "AB",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Apptegy"
+  },
+  {
+    "name": "Greater Essex County District School Board",
+    "website": "https://www.publicboard.ca/",
+    "province": "ON",
+    "schools": 76,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "GHD Digital"
+  },
+  {
+    "name": "Greater Saskatoon Catholic Schools",
+    "website": "https://www.gscs.ca/",
+    "province": "SK",
+    "schools": 50,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Greater St. Albert Roman Catholic Separate School Division",
+    "website": "https://www.gsacrd.ab.ca",
+    "province": "AB",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Greater Victoria",
+    "website": "https://www.sd61.bc.ca/",
+    "province": "BC",
+    "schools": 45,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "UPANUP"
+  },
+  {
+    "name": "Gulf Islands",
+    "website": "http://www.sd64.bc.ca",
+    "province": "BC",
+    "schools": 10,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Halton Catholic District School Board",
+    "website": "https://hcdsb.org/",
+    "province": "ON",
+    "schools": 55,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Halton District School Board",
+    "website": "https://www.hdsb.ca/`",
+    "province": "ON",
+    "schools": 102,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "GHD Digital"
+  },
+  {
+    "name": "Hamilton-Wentworth Catholic District School Board",
+    "website": "https://www.hwcdsb.ca/",
+    "province": "ON",
+    "schools": 56,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Hanover School Division",
+    "website": "http://hsd.ca/",
+    "province": "MB",
+    "schools": 19,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Hastings & Prince Edward District School Board",
+    "website": "https://www.hpedsb.on.ca/",
+    "province": "ON",
+    "schools": 49,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "High Prairie School Division",
+    "website": "https://www.hpsd.ca/",
+    "province": "AB",
+    "schools": 12,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Holy Family Catholic Regional School Division",
+    "website": "https://www.hfcrd.ab.ca",
+    "province": "AB",
+    "schools": 10,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Holy Spirit Catholic School Division",
+    "website": "https://www.holyspirit.ab.ca/",
+    "province": "AB",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Horizon School Division (Alberta)",
+    "website": "https://www.horizon.ab.ca",
+    "province": "AB",
+    "schools": 39,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Horizon School Division (Saskatchewan)",
+    "website": "https://www.horizonsd.ca/",
+    "province": "SK",
+    "schools": 43,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Huron Perth Catholic District School Board",
+    "website": "https://www.huronperthcatholic.ca/",
+    "province": "ON",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Huron-Superior Catholic District School Board",
+    "website": "https://www.hscdsb.on.ca/",
+    "province": "ON",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Interlake School Division",
+    "website": "https://www.interlakesd.ca/",
+    "province": "MB",
+    "schools": 15,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Kawartha Pine Ridge District School Board",
+    "website": "https://www.kprschools.ca/",
+    "province": "ON",
+    "schools": 89,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "GHD Digital"
+  },
+  {
+    "name": "Keewatin-Patricia District School Board",
+    "website": "https://www.kpdsb.on.ca/",
+    "province": "ON",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Kootenay Lake",
+    "website": "http://www.sd8.bc.ca",
+    "province": "BC",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Kootenay-Columbia School District No. 20",
+    "website": "http://www.sd20.bc.ca",
+    "province": "BC",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Lakehead District School Boardt",
+    "website": "https://www.lakeheadschools.ca/",
+    "province": "ON",
+    "schools": 31,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Lakeshore School Division",
+    "website": "http://www.lakeshoresd.mb.ca/",
+    "province": "MB",
+    "schools": 12,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Lambton Kent District School Board",
+    "website": "https://www.lkdsb.net/",
+    "province": "ON",
+    "schools": 68,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Apptegy"
+  },
+  {
+    "name": "Langley Schools",
+    "website": "https://www.sd35.bc.ca/",
+    "province": "BC",
+    "schools": 44,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Lester B. Pearson School Board",
+    "website": "https://www.lbpsb.qc.ca",
+    "province": "PQ",
+    "schools": 48,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Lethbridge School Division",
+    "website": "https://www.lethsd.ab.ca",
+    "province": "AB",
+    "schools": 28,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Limestone District School Board",
+    "website": "https://www.limestone.on.ca/",
+    "province": "ON",
+    "schools": 65,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Living Sky School Division",
+    "website": "https://www.livingskysd.ca/",
+    "province": "SK",
+    "schools": 27,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Livingstone Range School Division",
+    "website": "https://www.lrsd.ca",
+    "province": "AB",
+    "schools": 33,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Lloydminster SD 99",
+    "website": "https://www.lpsd.ca/",
+    "province": "SK",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "London District Catholic School Board",
+    "website": "https://ldcsb.ca/",
+    "province": "ON",
+    "schools": 55,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Lord Selkirk School Division",
+    "website": "http://www.lssd.ca/",
+    "province": "MB",
+    "schools": 19,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Louis Riel School Division",
+    "website": "https://www.lrsd.net/",
+    "province": "MB",
+    "schools": 40,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Maple Ridge Pitt Meadows School District No. 42",
+    "website": "http://www.sd42.ca",
+    "province": "BC",
+    "schools": 27,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Maskwacis Education Schools Commission",
+    "website": "https://www.maskwacised.ca",
+    "province": "AB",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Medicine Hat Roman Catholic Separate School Division",
+    "website": "https://www.mhcbe.ab.ca",
+    "province": "AB",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Medicine Hat School Division",
+    "website": "https://www.mhpsd.ca/",
+    "province": "AB",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Mission Public Schools",
+    "website": "http://www.mpsd.ca",
+    "province": "BC",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Mountain View School Division",
+    "website": "http://www.mvsd.ca/",
+    "province": "MB",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Nanaimo-Ladysmith",
+    "website": "https://www.sd68.bc.ca/",
+    "province": "BC",
+    "schools": 36,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Invision Web"
+  },
+  {
+    "name": "Near North District School Board",
+    "website": "https://www.nearnorthschools.ca/",
+    "province": "ON",
+    "schools": 44,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Nechako Lakes",
+    "website": "https://www.sd91.bc.ca/",
+    "province": "BC",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "New Frontiers School Board",
+    "website": "https://nfsb.qc.ca",
+    "province": "PQ",
+    "schools": 12,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "New Westminster Schools",
+    "website": "https://newwestschools.ca/",
+    "province": "BC",
+    "schools": 13,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Niagara Catholic District School Board",
+    "website": "https://www.niagaracatholic.ca/",
+    "province": "ON",
+    "schools": 59,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Nipissing-Parry Sound Catholic District School Board",
+    "website": "https://www.npsc.ca/",
+    "province": "ON",
+    "schools": 13,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "NLSchools (Newfoundland)",
+    "website": "https://www.nlschools.ca/",
+    "province": "NL",
+    "schools": 250,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "North East SD 200",
+    "website": "https://www.nesd.ca/",
+    "province": "SK",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "North Okanagan-Shuswap",
+    "website": "http://www.sd83.bc.ca",
+    "province": "BC",
+    "schools": 24,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "North Vancouver School District",
+    "website": "https://www.sd44.ca",
+    "province": "BC",
+    "schools": 33,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Northeastern Catholic District School Board",
+    "website": "https://ncdsb.on.ca/",
+    "province": "ON",
+    "schools": 15,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Northern Gateway School Division",
+    "website": "https://www.ngps.ca",
+    "province": "AB",
+    "schools": 24,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Northern Lights School Division (Alberta)",
+    "website": "https://www.nlsd.ab.ca",
+    "province": "AB",
+    "schools": 28,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Northern Lights School Division No. 113 (Saskatchewan)",
+    "website": "https://www.nlsd113.ca/",
+    "province": "SK",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Northland School Division",
+    "website": "https://www.nsd61.ca",
+    "province": "AB",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Northwest SD 203",
+    "website": "https://www.nwsd.ca/",
+    "province": "SK",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Okanagan Similkameen SD53",
+    "website": "https://www.sd53.bc.ca/",
+    "province": "BC",
+    "schools": 10,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Ottawa Catholic District School Board",
+    "website": "https://www.ocsb.ca/",
+    "province": "ON",
+    "schools": 83,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Ottawa-Carleton District School Board",
+    "website": "https://www.ocdsb.ca/",
+    "province": "ON",
+    "schools": 149,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Pacific Rim",
+    "website": "https://www.sd70.bc.ca",
+    "province": "BC",
+    "schools": 15,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Palliser School Division",
+    "website": "https://www.pallisersd.ab.ca",
+    "province": "AB",
+    "schools": 56,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Park West School Division",
+    "website": "http://www.pwsd.ca/",
+    "province": "MB",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Parkland School Division",
+    "website": "https://www.psd.ca",
+    "province": "AB",
+    "schools": 25,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Peace River North",
+    "website": "http://www.prn.bc.ca",
+    "province": "BC",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "UPANUP"
+  },
+  {
+    "name": "Peace River School Division",
+    "website": "https://www.prsd.ab.ca",
+    "province": "AB",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Peace River South",
+    "website": "http://www.sd59.bc.ca",
+    "province": "BC",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Peace Wapiti Public School Division",
+    "website": "https://www.pwpsd.ca/",
+    "province": "AB",
+    "schools": 24,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Peel District School Board",
+    "website": "https://www.peelschools.org/",
+    "province": "ON",
+    "schools": 255,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Pembina Hills School Division",
+    "website": "https://www.pembinahills.ca",
+    "province": "AB",
+    "schools": 19,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Pembina Trails School Division",
+    "website": "https://www.pembinatrails.ca/",
+    "province": "MB",
+    "schools": 38,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Peterborough Victoria Northumberland and Clarington Catholic District School Board",
+    "website": "https://www.pvnccdsb.on.ca/",
+    "province": "ON",
+    "schools": 37,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Prairie Land School Division",
+    "website": "https://www.plrd.ab.ca",
+    "province": "AB",
+    "schools": 25,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Prairie Rose School Division",
+    "website": "https://www.myprps.com/",
+    "province": "AB",
+    "schools": 41,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Prairie Rose School Division",
+    "website": "http://www.prsdmb.ca/",
+    "province": "MB",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Prairie South SD 210",
+    "website": "https://www.prairiesouth.ca/",
+    "province": "SK",
+    "schools": 40,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Prairie Spirit School Division (Manitoba)",
+    "website": "https://sites.google.com/a/prspirit.org/prairie-spirit-5/",
+    "province": "MB",
+    "schools": 29,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Prairie Spirit School Division (SK)",
+    "website": "https://www.spiritsd.ca/",
+    "province": "SK",
+    "schools": 45,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Prairie Valley School Division",
+    "website": "https://www.pvsd.ca/",
+    "province": "SK",
+    "schools": 40,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Public Schools Branch (PSB) - PEI",
+    "website": "https://psb.edu.pe.ca/",
+    "province": "PE",
+    "schools": 56,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Qualicum",
+    "website": "https://www.sd69.bc.ca",
+    "province": "BC",
+    "schools": 13,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Rainbow Schools",
+    "website": "https://www.rainbowschools.ca/",
+    "province": "ON",
+    "schools": 49,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Rainy River District School Board",
+    "website": "https://www.rrdsb.com/",
+    "province": "ON",
+    "schools": 14,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Red Deer Catholic Separate School Division",
+    "website": "https://www.rdcrs.ca",
+    "province": "AB",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Red Deer School Division",
+    "website": "https://www.rdpsd.ab.ca",
+    "province": "AB",
+    "schools": 31,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Red River Valley School Division",
+    "website": "http://rrvsd.ca/",
+    "province": "MB",
+    "schools": 13,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Regina Public Schools",
+    "website": "https://www.reginapublicschools.ca/",
+    "province": "SK",
+    "schools": 59,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Regina RCSSD 81",
+    "website": "https://www.rcsd.ca/",
+    "province": "SK",
+    "schools": 33,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Renfrew County Catholic District School Board",
+    "website": "https://www.rccdsb.ca/",
+    "province": "ON",
+    "schools": 24,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Renfrew County District School Board",
+    "website": "https://www.rcdsb.on.ca/en/index.aspx",
+    "province": "ON",
+    "schools": 34,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Richmond School District No. 38",
+    "website": "http://www.sd38.bc.ca",
+    "province": "BC",
+    "schools": 47,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Riverside School Board",
+    "website": "https://rsb.qc.ca",
+    "province": "PQ",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Rocky Mountain",
+    "website": "https://www.sd6.bc.ca/",
+    "province": "BC",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Rocky View School",
+    "website": "https://www.rockyview.ab.ca/",
+    "province": "AB",
+    "schools": 53,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Rolling River School Division",
+    "website": "http://www.rrsd.mb.ca/",
+    "province": "MB",
+    "schools": 16,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Saanich",
+    "website": "https://www.sd63.bc.ca",
+    "province": "BC",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Saskatchewan Rivers Public School Division",
+    "website": "https://www.srsd119.ca/",
+    "province": "SK",
+    "schools": 32,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Saskatoon Public Schools",
+    "website": "https://www.spsd.sk.ca/",
+    "province": "SK",
+    "schools": 58,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "School District No. 57 (Prince George)",
+    "website": "https://www.sd57.bc.ca/",
+    "province": "BC",
+    "schools": 41,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "School District No. 67 (Okanagan Skaha)",
+    "website": "https://www.sd67.bc.ca/",
+    "province": "BC",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "SD73 (Kamloops-Thompson)",
+    "website": "http://www.sd73.bc.ca",
+    "province": "BC",
+    "schools": 53,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Sea To Sky",
+    "website": "https://www.sd48seatosky.org/",
+    "province": "BC",
+    "schools": 16,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Seine River School Division",
+    "website": "https://www.srsd.ca/",
+    "province": "MB",
+    "schools": 16,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Seven Oaks School Division",
+    "website": "http://www.7oaks.org/",
+    "province": "MB",
+    "schools": 27,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Simcoe County District School Board",
+    "website": "https://www.scdsb.on.ca/",
+    "province": "ON",
+    "schools": 110,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Simcoe Muskoka Catholic District School Board",
+    "website": "https://www.smcdsb.on.ca/",
+    "province": "ON",
+    "schools": 50,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Sir Wilfrid Laurier School Board",
+    "website": "https://www.swlauriersb.qc.ca/en/",
+    "province": "PQ",
+    "schools": 36,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Sooke",
+    "website": "http://www.sd62.bc.ca",
+    "province": "BC",
+    "schools": 29,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "UPANUP"
+  },
+  {
+    "name": "South East Cornerstone Public School Division #209",
+    "website": "https://www.secpsd.ca/",
+    "province": "SK",
+    "schools": 35,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "South Shore Regional Centre for Education",
+    "website": "https://ssrce.ca/",
+    "province": "NS",
+    "schools": 23,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Southeast Kootenay",
+    "website": "https://www.sd5.bc.ca/",
+    "province": "BC",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Southern Francophone Education Region",
+    "website": "https://www.francosud.ca",
+    "province": "AB",
+    "schools": 18,
+    "company_type": "",
+    "current_provider": "Chabo Communications & Design"
+  },
+  {
+    "name": "St. Albert School Division",
+    "website": "https://www.spschools.org",
+    "province": "AB",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "St. Clair Catholic District School Board",
+    "website": "https://www.st-clair.net/",
+    "province": "ON",
+    "schools": 28,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "St. James-Assiniboia School Division",
+    "website": "https://www.sjasd.ca/Pages/default.aspx",
+    "province": "MB",
+    "schools": 26,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "St. Paul School Division",
+    "website": "https://www.stpauleducation.ab.ca",
+    "province": "AB",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "St. Thomas Aquinas Roman Catholic Separate School Division",
+    "website": "https://starcatholic.ab.ca",
+    "province": "AB",
+    "schools": 12,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Strait Regional Centre for Education",
+    "website": "https://www.srce.ca/",
+    "province": "NS",
+    "schools": 20,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Sturgeon School Division",
+    "website": "https://www.sturgeon.ab.ca",
+    "province": "AB",
+    "schools": 20,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Sudbury Catholic District School Board",
+    "website": "https://www.sudburycatholicschools.ca/",
+    "province": "ON",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Sun West SD 207",
+    "website": "http://www.sunwestsd.ca/",
+    "province": "SK",
+    "schools": 42,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Sunrise School Division",
+    "website": "http://www.sunrisesd.ca/",
+    "province": "MB",
+    "schools": 19,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Edlio"
+  },
+  {
+    "name": "Sunshine Coast",
+    "website": "https://www.sd46.bc.ca",
+    "province": "BC",
+    "schools": 14,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Superior-Greenstone District School Board",
+    "website": "https://www.sgdsb.on.ca/",
+    "province": "ON",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Surrey Schools",
+    "website": "http://www.surreyschools.ca",
+    "province": "BC",
+    "schools": 130,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "tdsb Toronto District School Board",
+    "website": "https://www.tdsb.on.ca/",
+    "province": "ON",
+    "schools": 578,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Thames Valley District School Board",
+    "website": "https://www.tvdsb.ca/en/index.aspx",
+    "province": "ON",
+    "schools": 163,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "GHD Digital"
+  },
+  {
+    "name": "Thunder Bay Catholic District School Board",
+    "website": "https://www.tbcschools.ca/",
+    "province": "ON",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Toronto Catholic District School Board",
+    "website": "https://www.tcdsb.org/",
+    "province": "ON",
+    "schools": 196,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Tri-County Regional Centre for Education",
+    "website": "https://www.tcrce.ca/",
+    "province": "NS",
+    "schools": 22,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Trillium Lakelands District School Board",
+    "website": "https://www.tldsb.ca/",
+    "province": "ON",
+    "schools": 48,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Upper Canada District School Board",
+    "website": "https://www.ucdsb.on.ca/",
+    "province": "ON",
+    "schools": 77,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Vancouver Island North",
+    "website": "https://www.sd85.bc.ca",
+    "province": "BC",
+    "schools": 11,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Vancouver School Board",
+    "website": "https://www.vsb.bc.ca",
+    "province": "BC",
+    "schools": 110,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Vernon",
+    "website": "http://www.sd22.bc.ca",
+    "province": "BC",
+    "schools": 19,
+    "company_type": "Appazur Prospect, Other",
+    "current_provider": "Imagine Everything"
+  },
+  {
+    "name": "Waterloo Catholic District School Board",
+    "website": "https://www.wcdsb.ca/",
+    "province": "ON",
+    "schools": 52,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Waterloo Region District School Board",
+    "website": "https://www.wrdsb.on.ca/",
+    "province": "ON",
+    "schools": 120,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Wellington Catholic District School Board",
+    "website": "https://www.wellingtoncdsb.ca/",
+    "province": "ON",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "West Vancouver Schools",
+    "website": "https://westvancouverschools.ca/",
+    "province": "BC",
+    "schools": 17,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Other"
+  },
+  {
+    "name": "Western Quebec School Board",
+    "website": "https://westernquebec.ca",
+    "province": "PQ",
+    "schools": 25,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "Westwind School Division",
+    "website": "https://www.westwind.ab.ca",
+    "province": "AB",
+    "schools": 33,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Wetaskiwin School Division",
+    "website": "https://www.wrps11.ca",
+    "province": "AB",
+    "schools": 21,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Wild Rose School Division",
+    "website": "https://www.wrsd.ca",
+    "province": "AB",
+    "schools": 18,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "Windsor-Essex Catholic District School Board",
+    "website": "https://www.wecdsb.on.ca/",
+    "province": "ON",
+    "schools": 49,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "SchoolMessenger"
+  },
+  {
+    "name": "Winnipeg School Division",
+    "website": "https://winnipegsd.ca",
+    "province": "MB",
+    "schools": 79,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "SchoolBundle"
+  },
+  {
+    "name": "Wolf Creek School Division",
+    "website": "https://www.wolfcreek.ab.ca",
+    "province": "AB",
+    "schools": 31,
+    "company_type": "Schoolkit Prospect",
+    "current_provider": "Rally"
+  },
+  {
+    "name": "York Catholic District School Board",
+    "website": "https://www.ycdsb.ca/",
+    "province": "ON",
+    "schools": 106,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  },
+  {
+    "name": "York Region District School Board",
+    "website": "https://www2.yrdsb.ca/",
+    "province": "ON",
+    "schools": 213,
+    "company_type": "Appazur Prospect, Schoolkit Prospect",
+    "current_provider": "Internal"
+  }
+]
